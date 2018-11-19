@@ -2,4 +2,132 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeghanHealthKitDemo/LogWorkoutViewController.swift"
+            timestampString = "564279476.615037"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "LogWorkoutViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeghanHealthKitDemo/LogWorkoutViewController.swift"
+            timestampString = "564279476.615155"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "numberOfComponents(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeghanHealthKitDemo/LogWorkoutViewController.swift"
+            timestampString = "564279476.615213"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "LogWorkoutViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MeghanHealthKitDemo/LogWorkoutViewController.swift"
+            timestampString = "564279476.615265"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "LogWorkoutViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeghanHealthKitDemo.LogWorkoutViewController.recommendedExercisePicker.getter : weak Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "MeghanHealthKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Meghan/Desktop/MeghanHealthKitDemo/MeghanHealthKitDemo/LogWorkoutViewController.swift"
+                  timestampString = "564279232.5793051"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeghanHealthKitDemo.LogWorkoutViewController.recommendedExercisePicker.setter : weak Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "MeghanHealthKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Meghan/Desktop/MeghanHealthKitDemo/MeghanHealthKitDemo/LogWorkoutViewController.swift"
+                  timestampString = "564279232.582601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeghanHealthKitDemo.LogWorkoutViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MeghanHealthKitDemo.LogWorkoutViewController"
+                  moduleName = "MeghanHealthKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Meghan/Desktop/MeghanHealthKitDemo/MeghanHealthKitDemo/LogWorkoutViewController.swift"
+                  timestampString = "564279232.5855629"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MeghanHealthKitDemo.LogWorkoutViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MeghanHealthKitDemo.LogWorkoutViewController&gt;"
+                  moduleName = "MeghanHealthKitDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Meghan/Desktop/MeghanHealthKitDemo/MeghanHealthKitDemo/LogWorkoutViewController.swift"
+                  timestampString = "564279232.589214"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

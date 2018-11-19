@@ -27,9 +27,7 @@ class HealthKitManager {
         //make sure the types of data we want exists
         guard
             let dietaryEnergyConsumed = HKObjectType.quantityType(forIdentifier: .dietaryEnergyConsumed),
-            let activeEnergyBurned = HKObjectType.quantityType(forIdentifier: .activeEnergyBurned),
-            let bloodType = HKObjectType.characteristicType(forIdentifier: .bloodType),
-            let bioSex = HKObjectType.characteristicType(forIdentifier: .biologicalSex)
+            let activeEnergyBurned = HKObjectType.quantityType(forIdentifier: .activeEnergyBurned)
             else {
                 return
             }
@@ -37,8 +35,6 @@ class HealthKitManager {
         //compile into two sets: data we want to read and data we want to write
         let healthKitTypesToWrite: Set<HKSampleType> = [activeEnergyBurned]
         let healthKitTypesToRead: Set<HKObjectType> = [activeEnergyBurned,
-                                                       bloodType,
-                                                       bioSex,
                                                        dietaryEnergyConsumed]
         
         //request authorization from our healthStore object
